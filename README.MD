@@ -1,4 +1,4 @@
-   #  Night_Core_Kernel_msm8916
+   #  Night_Core_TW_N_Kernel_msm8916
 
 Supported Samsung Phone : 
 - J5 2016 (J510FN)
