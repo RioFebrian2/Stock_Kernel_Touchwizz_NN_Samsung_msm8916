@@ -1,4 +1,4 @@
-   #  Night_Core_TW_N_Kernel_msm8916
+   #  About Stock Kernel_msm8916
 
 Supported Samsung Phone : 
 - J5 2016 (J510FN)
@@ -6,3 +6,5 @@ Supported Samsung Phone :
 - Grand Prime (G530H-FZ-F-M-T-BT)
 - E5 (E500H-F-M)
 - E7 (E700H-M-F)
+# Os version
+- Touchwizz 7.1.1
